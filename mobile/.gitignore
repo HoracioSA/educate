@@ -1,0 +1,10 @@
+node_modules
+*.mobileprovision
+*.orig.*
+web-build/
+*.lock
+/*.json
+*.config.js
+# macOS
+.DS_Store
+.vscode
